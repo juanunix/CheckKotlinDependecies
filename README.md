@@ -1,3 +1,5 @@
+# MiniScript Kotlin Get Dependencies Gradle File
+
 🇧🇷 Português 🇧🇷
 📜 Script em Kotlin para obter a lista de dependências de cada arquivo build.gradle em um projeto. Este script percorre os arquivos build.gradle e extrai as seções de dependências.
 
@@ -10,3 +12,4 @@
 
 
 ![image](https://github.com/user-attachments/assets/0ecb44b7-b582-427a-a21e-2e987ac31cf6)
+
